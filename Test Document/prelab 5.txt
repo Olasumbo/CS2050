@@ -1,0 +1,29 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<time.h>
+double average(double* array, int length);
+
+#define NAMELENGTH 20
+
+typedef struct Student
+{
+    char *name;
+    double* homework;
+    double* quizzes;
+    double* tests;
+	double weightedaverage;
+}student;
+
+int main(void)
+{
+	printf("Welcome to my Grade Calculator\n");
+	//student array = malloc(sizeof(student))*NAMELENGTH);
+	(student+i)->name = malloc(sizeof(char))*NAMELENGTH);
+	printf(" Please enter the student's name: %s \n");
+	scanf("&",(student+i)-> name);
+}
+double average(double* array, int length);
+{
+
+
+}

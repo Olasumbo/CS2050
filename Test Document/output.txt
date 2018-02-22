@@ -1,0 +1,15 @@
+Min: 3.20
+Max: 12.40
+Median: 7.20
+Mode: 3.20
+sorted array;5
+ sorted array;13
+ sorted array;16
+ sorted array;26
+ sorted array;26
+ sorted array;40
+ sorted array;47
+ sorted array;48
+ sorted array;84
+ sorted array;89
+ 

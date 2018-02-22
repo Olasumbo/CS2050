@@ -1,0 +1,100 @@
+Brian_Gierer 
+105 85 98 46
+Blake_Shambro
+221 12 5 80
+Joe_Guilliams
+223 45 80 10
+Syndey_Bates 
+302 85 25 90
+Jeremy_Warden 
+333 99 99 99
+Jerry_Warden 
+343 15 25 35
+Dheeraj_idk 
+356 25 60 99
+Andrew_Raguini 
+380 99 4 35
+Kenrick_blah 
+399 28 75 90
+Jeremy_Metz 
+400 75 80 54
+Taylor_Gang 
+402 90 98 65
+American_Idol_Simon 
+404 3 2 99
+lil_wayne 
+406 80 82 95
+Albert_Pujols 
+411 1 1 1
+Yadiar_Molina 
+510 99 99 99
+Trevor_Rosenthal 
+511 1 1 99
+Kris_Bryant 
+512 1 1 1
+Jason_Haywerd 
+555 -1 -1 -1
+Tim_Tebow 
+560 95 65 90
+Kobe_Bryant 
+600 87 88 40
+Kim_K
+610 88 43 65
+James_Bond
+676 99 0 88
+Rictor_B
+700 65 65 65
+April_Fools
+710 77 88 66
+May_Drools
+730 77 55 33
+David_Eckstien
+733 66 44 87
+Edgar_Renteria
+734 65 76 87
+Buster_Posey
+735 77 99 99
+Steven_Tyler
+736 0 8 0
+Adrian_Beltre
+800 80 80 80
+Peter_Griffen
+801 81 81 81
+Louis_Griffen
+803 99 99 99
+Jiggly_Puff
+804 87 76 65
+Ash_Ketchum
+810 8 90 12
+Tyler_Brandt
+811 99 99 99
+Code_Animal
+831 98 76 65
+Linux_Guy
+845 99 66 55
+Unix_Guy
+855 90 66 55
+Windows_Guy
+866 0 0 0
+Mac_Guy
+877 99 99 99
+Mouse_Clicker
+888 87 76 76
+Vim_User
+889 88 88 88
+Note_Pad_Plus
+900 9 0 19
+Winston_Churchill
+901 99 99 99
+Obama
+910 99 99 99
+Hilary_Clinton
+912 98 98 98
+Donald_Trump
+913 98 98 98
+Hillary_Duff
+925 17 17 17
+Misty_May
+930 99 99 99
+Nolan_Ryan
+945 98 98 98

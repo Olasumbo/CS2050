@@ -1,0 +1,62 @@
+   
+void search_tree(Node* root, int year, int price, int* count)
+{
+        if(price == 0)
+        {
+                price = 200000000;
+        }
+        if (root != NULL)
+        {
+                if( root->year > year && root->price <= price)
+                {
+                         printf("%s %s %s %s %d %d %d",root->color, root->type, root->model, root->make, root->mileage, root->price, root->year);
+                        (*count)++;
+                }
+                search_tree(root->left, year, price, count);
+                 if(root->price <= price)
+                {
+                    search_tree( root->right, year, price,count);
+                }
+					printf("The was %d cars founds\n", *count);
+
+         }
+}
+
+
+ 
+void search_tree(Node* root, int year, int price, int* count)
+{
+         if (root != NULL)
+         { 
+				if(price == 0)
+				{
+					if (root->year > year)
+					{
+							(*count)++;
+							printf("%d %s %s that cost %d\n", root->year, root->make, root->model, root->price);
+							printf("There were %d cars found\n", *count);
+					}
+				search_tree(root->left, year, price, count);
+				search_tree( root->right, year, price, count);
+				}
+				if(year == 0)
+				{
+					if(root->price < price)
+					{
+						(*count)++;
+						printf("%d %s %s that cost %d\n", root->year, root->make, root->model, root->price);                       
+						printf("There were %d cars found\n", *count);
+					}
+				search_tree(root->left, year, price, count);
+				search_tree( root->right, year, price, count);
+				}
+				if(root->year > year && root->price < price)
+                {
+                        (*count)++;
+						printf("%d %s %s that cost %d\n", root->year, root->make, root->model, root->price);                   
+						printf("There were %d cars found\n", *count);
+                }
+				search_tree(root->left, year, price, count);
+                search_tree( root->right, year, price, count);
+        }
+}
